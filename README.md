@@ -5,7 +5,7 @@
 📍 Basé à **Angers, France**  
 🎓 Actuellement en **troisième année de Bachelor** avec un projet de poursuivre en **école d'ingénieur** et en **alternance en cybersécurité**  
 🔐 Passionné par la **cybersécurité**, le **pentesting**, et le **développement full-stack**  
-📝 Actuellement en train de rédiger un **rapport sur le pentesting** basé sur la méthodologie du **CEH**  
+📝 Actuellement en préparation d'un projet pour institution scolaire 
 
 ### 💡 Interests & Projects  
 🚀 Création d'un **Dashboard de statistiques en temps réel**  
