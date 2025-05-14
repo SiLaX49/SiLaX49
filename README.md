@@ -3,7 +3,7 @@
 ### 🛠️ About Me  
 💻 Étudiant en **cybersécurité** à l'**ESAIP**  
 📍 Basé à **Angers, France**  
-🎓 Actuellement en **troisième année de Bachelor** avec un projet de poursuivre en **école d'ingénieur** et en **alternance en cybersécurité**  
+🎓 Actuellement en **troisième année de Bachelor** avec un projet de poursuivre en **école d'ingénieur****  
 🔐 Passionné par la **cybersécurité**, le **pentesting**, et le **développement full-stack**  
 📝 Actuellement en préparation d'un projet pour institution scolaire 
 
