@@ -15,7 +15,7 @@ Bienvenue sur mon dépôt GitHub !
 - 🔬 Expérimentation avec **Electron** pour le développement d'applications desktop
 
 ## 🛠️ Technologies & Outils
-- **Langages :** JavaScript (Node.js, Express), Python, C++, Flutter, HTML/CSS
+- **Langages :** JavaScript (Node.js, Express), C++, Flutter, HTML/CSS
 - **Bases de données :** MongoDB, MySQL
 - **DevOps & Cybersécurité :** Linux, Windows Server, Pentesting, Hashcat, Virtualisation
 - **Outils & Frameworks :** Electron, Figma (UI Design), Git, Docker
