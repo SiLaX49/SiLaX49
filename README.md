@@ -1,5 +1,3 @@
-# 👋 Hi, I’m @Mnoa04
-
 Bienvenue sur mon dépôt GitHub !
 
 ## 🛠️ À propos de moi
