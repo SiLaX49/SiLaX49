@@ -3,9 +3,8 @@ Bienvenue sur mon dépôt GitHub !
 ## 🛠️ À propos de moi
 - 💻 Étudiant en **cybersécurité** à l'**ESAIP**
 - 📍 Basé à **Angers, France**
-- 🎓 Actuellement en **troisième année de Bachelor** et visant une **école d'ingénieur**
+- 🎓 Actuellement en **première année d'Ingénieurs**
 - 🔐 Passionné par la **cybersécurité**, le **pentesting** et le **développement full-stack**
-- 📝 Préparation d'un projet pour institution scolaire
 
 ## 💡 Centres d'intérêt & Projets
 - 🚀 Création d'un **dashboard de statistiques en temps réel**
