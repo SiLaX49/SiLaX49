@@ -1,9 +1,9 @@
-Bienvenue sur mon dépôt GitHub !
+# Bienvenue sur mon dépôt GitHub !
 
 ## 🛠️ À propos de moi
-- 💻 Étudiant en **numérique** à l'**ESAIP**
+- 🎓 Actuellement en **première année d'Ingénieurs** et diplomés en **Ingenieurie informatique spécialiser en Cybersecurité (Bac+3)**
+- 💻 Étudiant en **numérique** à l'**ESAIP** et alternant en **Devops** à **U Tech**
 - 📍 Basé à **Angers, France**
-- 🎓 Actuellement en **première année d'Ingénieurs**
 
 ## 💡 Centres d'intérêt & Projets
 - 🚀 Création d'un **dashboard de statistiques en temps réel**
