@@ -1,7 +1,7 @@
 # Bienvenue sur mon dépôt GitHub !
 
 ## 🛠️ À propos de moi
-- 🎓 Actuellement en **première année d'Ingénieurs** et diplomés en **Ingenieurie informatique spécialiser en Cybersecurité (Bac+3)**
+- 🎓 Actuellement en **première année d'Ingénieurs** et diplomés en **Ingénieurie Informatique spécialiser en Cybersecurité (Bac+3)**
 - 💻 Étudiant en **numérique** à l'**ESAIP** et alternant en **Devops** à **U Tech**
 - 📍 Basé à **Angers, France**
 
