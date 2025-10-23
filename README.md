@@ -1,10 +1,9 @@
 Bienvenue sur mon dépôt GitHub !
 
 ## 🛠️ À propos de moi
-- 💻 Étudiant en **cybersécurité** à l'**ESAIP**
+- 💻 Étudiant en **numérique** à l'**ESAIP**
 - 📍 Basé à **Angers, France**
 - 🎓 Actuellement en **première année d'Ingénieurs**
-- 🔐 Passionné par la **cybersécurité**, le **pentesting** et le **développement full-stack**
 
 ## 💡 Centres d'intérêt & Projets
 - 🚀 Création d'un **dashboard de statistiques en temps réel**
@@ -22,4 +21,4 @@ Bienvenue sur mon dépôt GitHub !
 ## 📫 Me contacter
 - 🌐 **LinkedIn :** [www.linkedin.com/in/noa-morisseau](https://www.linkedin.com/in/noa-morisseau)
 
-🚀 Toujours à la recherche de nouveaux défis et opportunités dans l’**informatique** et la **cybersécurité** !
+🚀 Toujours à la recherche de nouveaux défis et opportunités dans l’**informatique** !
