@@ -12,10 +12,10 @@
 - 🖥️ Développement d'un **backend** avec Node.js, MongoDB et Python pour l'analyse de fichiers
 
 ## 🛠️ Technologies & Outils
-- **Langages :** JavaScript (Node.js, Express), C++, Flutter, HTML/CSS
-- **Bases de données :** MongoDB, MySQL
+- **Langages :** JavaScript (Node.js, Express), C++, Flutter, HTML/CSS, Python
+- **Bases de données :** MongoDB, MySQL, Firebase
 - **DevOps & Cybersécurité :** Linux, Windows Server, Pentesting, Hashcat, Virtualisation
-- **Outils & Frameworks :** Electron, Figma (UI Design), Git, Docker
+- **Outils & Frameworks :** Figma (UI Design), Git, Docker
 
 ## 📫 Me contacter
 - 🌐 **LinkedIn :** [www.linkedin.com/in/noa-morisseau](https://www.linkedin.com/in/noa-morisseau)
