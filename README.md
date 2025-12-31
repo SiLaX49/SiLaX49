@@ -10,7 +10,6 @@
 - 📂 Développement d'un **outil de gestion de fichiers et de renommage automatique**
 - 🎨 Conception d'un **projet de quiz interactif avec IA et dessin**
 - 🖥️ Développement d'un **backend** avec Node.js, MongoDB et Python pour l'analyse de fichiers
-- 🔬 Expérimentation avec **Electron** pour le développement d'applications desktop
 
 ## 🛠️ Technologies & Outils
 - **Langages :** JavaScript (Node.js, Express), C++, Flutter, HTML/CSS
