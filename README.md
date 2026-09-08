@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/SiLaX49.png" width="120" alt="Noa Morisseau" style="border-radius:50%"/>
-
-# 👋 Salut, moi c'est Noa Morisseau
-
 ### Étudiant Ingénieur Informatique & Réseaux · Alternant DevOps ☁️🔧
 
 <p>
