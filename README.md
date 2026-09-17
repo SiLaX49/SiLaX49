@@ -8,13 +8,10 @@
 
 <p>
   <a href="https://silax49.github.io"><img src="https://img.shields.io/badge/📄_Mon_CV_en_ligne-2563EB?style=for-the-badge&logoColor=white" alt="CV en ligne"/></a>
-  <a href="https://www.linkedin.com/in/noa-morisseau"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p>
-  <a href="mailto:noa.morisseau@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/SiLaX49"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/noa-morisseau"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=SiLaX49&style=flat-square&color=2563eb" alt="Profile views"/>
 </p>
 
@@ -27,7 +24,7 @@
 ## 🧭 À propos
 
 ```yaml
-nom:        Noa Morisseau
+pseudo:     SiLaX49
 rôle:       Étudiant ingénieur Informatique & Réseaux (IR)
 école:      ESAIP — promotion 2028
 alternance: Alternant DevOps @ U TECH (Système U)
@@ -146,9 +143,8 @@ Au sein de la DSI du groupe **Système U**, je travaille sur **FluxGen**, la pla
 
 ### 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/noa.morisseau@outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:noa.morisseau@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noa-morisseau)
 [![CV](https://img.shields.io/badge/CV_en_ligne-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://silax49.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiLaX49)
 
 <sub>⚡ « Automatise tout ce qui peut l'être, sécurise le reste. »</sub>
 
