@@ -121,9 +121,6 @@ Au sein de la DSI du groupe **Système U**, je travaille sur **FluxGen**, la pla
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SiLaX49&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiLaX49&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiLaX49&hide_border=true&theme=tokyonight" alt="streak"/>
 
 </div>
